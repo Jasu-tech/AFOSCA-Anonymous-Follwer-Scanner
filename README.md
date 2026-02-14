@@ -59,7 +59,7 @@ ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, 
 ## Installation
 
 1. File: AFOSCA_V2_MAP5.ino.merged.bin
-2. Address:0x0
+2. Address: 0x0
 
 3. Setup:
 SPI Speed: 40MHz (or 80MHz)
