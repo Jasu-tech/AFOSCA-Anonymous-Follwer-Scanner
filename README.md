@@ -58,14 +58,16 @@ ESP32-C5 BLE/WiFi tracker with GPS tracking, SD card storage, deauth detection, 
 
 ## Installation
 
-1. Install Arduino IDE
-2. Add ESP32-C5 board support via Board Manager
-3. Install NimBLE-Arduino and TinyGPS++ libraries via Library Manager
-4. Open `AFOSCA_V2_MAP5.ino`
-5. Select your ESP32-C5 board and port
-6. Upload
+1. File: AFOSCA_V2_MAP5.ino.merged.bin
+2. Address:0x0
 
-![Settings](https://github.com/user-attachments/assets/494b70fa-6e1a-48dc-a1b3-38b83b6d950d)
+3. Setup:
+SPI Speed: 40MHz (tai 80MHz)
+SPI Mode: DIO
+COM-Port: Your ESP32-C5 port
+Baud: 921600 (fast) or 460800 (securer)
+
+4. Then "START"
 
 ---
 
