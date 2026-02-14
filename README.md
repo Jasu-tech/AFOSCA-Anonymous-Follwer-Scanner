@@ -163,7 +163,7 @@ The device can use your phone's GPS to improve location accuracy. This requires 
 - **Safari (iPhone):** Usually works directly, just allow location when the browser asks
 
 **Web interface pages:**
-- **Main view** - All detected devices sorted by threat level
+- **Main view** - All detected devices sorted by threat level (ALL & FILTER)
 - **BLE** - Bluetooth devices
 - **WiFi** - WiFi devices and routers
 - **Randomized** - Devices with randomized MAC addresses
