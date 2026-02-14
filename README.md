@@ -237,8 +237,6 @@ The device includes multiple protections against SD card failures:
 - All critical settings (whitelist, hotspot, GPS config) backed up to internal memory (NVS)
 - The device continues to function without the SD card using NVS backups
 
-> **Suomenkieliset ohjeet:** Katso [README_FI.md](README_FI.md)
-
 ---
 
 ## SD Card File Structure
